@@ -1,0 +1,11 @@
+server:
+  port: 9900
+
+spring:
+  application:
+    name: spring.cloud.config.server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/byruy83/spring-cloud-config.git

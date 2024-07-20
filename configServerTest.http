@@ -1,4 +1,4 @@
 ### GET request to example server
-GET localhost:9900
+GET localhost:9900/configtest/dev
 
 ###
